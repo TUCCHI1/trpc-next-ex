@@ -1,0 +1,14 @@
+{
+  "name": "trpc-next-ex",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@trpc/client": "^10.4.3",
+    "@trpc/next": "^10.4.3",
+    "@trpc/react": "^9.27.4",
+    "@trpc/server": "^10.4.3",
+    "react-query": "^3.39.2",
+    "zod": "^3.19.1"
+  }
+}
